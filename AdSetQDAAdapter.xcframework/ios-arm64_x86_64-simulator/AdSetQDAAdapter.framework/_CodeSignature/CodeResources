@@ -6,7 +6,11 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		y7ReWM6pAvZNdiUU5FspySpFPos=
+		6uD7EME/IAFzSN9a0+jQxUFzpKw=
+		</data>
+		<key>AdSetQDAAdapter.xcframework/.DS_Store</key>
+		<data>
+		CuL9ZIbkV1sico8/V8DkMq8Bd38=
 		</data>
 		<key>AdSetQDAAdapter.xcframework/Info.plist</key>
 		<data>
@@ -266,7 +270,7 @@
 		</data>
 		<key>Frameworks/AdSetQDAAdSDK.framework/AdSetQDAAdSDK</key>
 		<data>
-		hYCfeW1oW3TVjj+DHHQohLFyhqs=
+		oDiiXtfkBzO2iIDGQpSqAvg0Glo=
 		</data>
 		<key>Frameworks/AdSetQDAAdSDK.framework/Info.plist</key>
 		<data>
@@ -1003,11 +1007,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hYCfeW1oW3TVjj+DHHQohLFyhqs=
+			oDiiXtfkBzO2iIDGQpSqAvg0Glo=
 			</data>
 			<key>hash2</key>
 			<data>
-			lmsbvyPEQEbOnM9MmJZG6EjYZsTHvIQw+vwtHOORyS0=
+			q37/69a8cXes0dJMeR0rzP8UeWbErYQgDDuYRwLKoFo=
 			</data>
 		</dict>
 		<key>Frameworks/AdSetQDAAdSDK.framework/Info.plist</key>

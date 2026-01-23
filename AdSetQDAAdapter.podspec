@@ -31,6 +31,6 @@ Pod::Spec.new do |s|
   
   # ================= 第三方依赖库 =================
 
-  s.dependency 'OSETCoreSDK','>=6.6.2.7'
+  s.dependency 'OSETCoreSDK','>=6.6.3.1'
   s.dependency 'AdSetQDAAdSDK'
 end
