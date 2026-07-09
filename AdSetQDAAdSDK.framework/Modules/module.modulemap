@@ -1,0 +1,6 @@
+framework module AdSetQDAAdSDK {
+  umbrella header "AdSetQDAAdSDK.h"
+  export *
+
+  module * { export * }
+}
