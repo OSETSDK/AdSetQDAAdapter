@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
-  s.name         = "AdSetQDDAdapter"
-  s.version      = "1.0.5"
+  s.name         = "AdSetQDAAdapter"
+  s.version      = "2.0.0.0"
   s.summary      = "AdSet广告对接适配器类"
   s.description  = <<-DESC
-                    AdSetQDDAdapter 是一个专业的广告聚合SDK，提供高效的广告展示和收益优化功能。
+                    AdSetQDAAdapter 是一个专业的广告聚合SDK，提供高效的广告展示和收益优化功能。
                     DESC
-  s.homepage     = "https://github.com/OSETSDK/AdSetQDDAdapter"
+  s.homepage     = "https://github.com/OSETSDK/AdSetQDAAdapter"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { 'shenshi' => 'yaohaofei@shenshiads.com' }
   
@@ -14,13 +14,13 @@ Pod::Spec.new do |s|
   
   # 源文件配置
   s.source       = {
-    :git => 'https://github.com/OSETSDK/AdSetQDDAdapter.git',
+    :git => 'https://github.com/OSETSDK/AdSetQDAAdapter.git',
     :tag => s.version.to_s
   }
   
   # 主框架文件
   # 检查 AdSetQDAAdapter.podspec 关键字段
-  s.vendored_frameworks = 'AdSetQDDAdapter.xcframework'
+  s.vendored_frameworks = 'AdSetQDAAdapter.xcframework'
   
   # 系统框架依赖
   s.frameworks = "Foundation", "UIKit"
@@ -32,5 +32,5 @@ Pod::Spec.new do |s|
   # ================= 第三方依赖库 =================
 
   s.dependency 'OSETCoreAd'
-  s.dependency 'AdSetQDDAdSDK','2.3.0'
+  s.dependency 'AdSetQDAAdSDK'
 end
